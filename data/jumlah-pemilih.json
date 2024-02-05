@@ -1,0 +1,1040 @@
+{
+"LN":[
+ {
+  "JUMLAH PEMILIH": "L",
+  "Column4": "P",
+  "Column5": "L + P"
+ },
+ {
+  "NO": 1,
+  "PPLN": "PPLN Abuja",
+  "JUMLAH PEMILIH": 1177,
+  "Column4": 199,
+  "Column5": 1376,
+  "JUMLAH TPS\/KSK\/POS": 7
+ },
+ {
+  "NO": 2,
+  "PPLN": "PPLN Dakar",
+  "JUMLAH PEMILIH": 670,
+  "Column4": 29,
+  "Column5": 699,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 3,
+  "PPLN": "PPLN Pretoria",
+  "JUMLAH PEMILIH": 162,
+  "Column4": 105,
+  "Column5": 267,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 4,
+  "PPLN": "PPLN Cape Town",
+  "JUMLAH PEMILIH": 55,
+  "Column4": 70,
+  "Column5": 125,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 5,
+  "PPLN": "PPLN Windhoek",
+  "JUMLAH PEMILIH": 118,
+  "Column4": 40,
+  "Column5": 158,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 6,
+  "PPLN": "PPLN Addis Ababa",
+  "JUMLAH PEMILIH": 48,
+  "Column4": 56,
+  "Column5": 104,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 7,
+  "PPLN": "PPLN Nairobi",
+  "JUMLAH PEMILIH": 122,
+  "Column4": 72,
+  "Column5": 194,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 8,
+  "PPLN": "PPLN Antananarivo",
+  "JUMLAH PEMILIH": 225,
+  "Column4": 95,
+  "Column5": 320,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 9,
+  "PPLN": "PPLN Maputo",
+  "JUMLAH PEMILIH": 156,
+  "Column4": 29,
+  "Column5": 185,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 10,
+  "PPLN": "PPLN Dar-Es Salaam",
+  "JUMLAH PEMILIH": 33,
+  "Column4": 62,
+  "Column5": 95,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 11,
+  "PPLN": "PPLN Harare",
+  "JUMLAH PEMILIH": 141,
+  "Column4": 14,
+  "Column5": 155,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 12,
+  "PPLN": "PPLN Alger",
+  "JUMLAH PEMILIH": 119,
+  "Column4": 62,
+  "Column5": 181,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 13,
+  "PPLN": "PPLN Tripoli",
+  "JUMLAH PEMILIH": 156,
+  "Column4": 24,
+  "Column5": 180,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 14,
+  "PPLN": "PPLN Rabat",
+  "JUMLAH PEMILIH": 182,
+  "Column4": 140,
+  "Column5": 322,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 15,
+  "PPLN": "PPLN Kairo",
+  "JUMLAH PEMILIH": 7233,
+  "Column4": 3976,
+  "Column5": 11209,
+  "JUMLAH TPS\/KSK\/POS": 22
+ },
+ {
+  "NO": 16,
+  "PPLN": "PPLN Khartoum",
+  "JUMLAH PEMILIH": 29,
+  "Column4": 26,
+  "Column5": 55,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 17,
+  "PPLN": "PPLN Tunis",
+  "JUMLAH PEMILIH": 108,
+  "Column4": 68,
+  "Column5": 176,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 18,
+  "PPLN": "PPLN Buenos Aires",
+  "JUMLAH PEMILIH": 195,
+  "Column4": 52,
+  "Column5": 247,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 19,
+  "PPLN": "PPLN Brasilia",
+  "JUMLAH PEMILIH": 148,
+  "Column4": 124,
+  "Column5": 272,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 20,
+  "PPLN": "PPLN Santiago",
+  "JUMLAH PEMILIH": 67,
+  "Column4": 66,
+  "Column5": 133,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 21,
+  "PPLN": "PPLN Quito",
+  "JUMLAH PEMILIH": 28,
+  "Column4": 16,
+  "Column5": 44,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 22,
+  "PPLN": "PPLN Bogota",
+  "JUMLAH PEMILIH": 50,
+  "Column4": 28,
+  "Column5": 78,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 23,
+  "PPLN": "PPLN Lima",
+  "JUMLAH PEMILIH": 45,
+  "Column4": 44,
+  "Column5": 89,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 24,
+  "PPLN": "PPLN Paramaribo",
+  "JUMLAH PEMILIH": 600,
+  "Column4": 48,
+  "Column5": 648,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 25,
+  "PPLN": "PPLN Caracas",
+  "JUMLAH PEMILIH": 66,
+  "Column4": 33,
+  "Column5": 99,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 26,
+  "PPLN": "PPLN Havana",
+  "JUMLAH PEMILIH": 144,
+  "Column4": 33,
+  "Column5": 177,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 27,
+  "PPLN": "PPLN Mexico City",
+  "JUMLAH PEMILIH": 116,
+  "Column4": 144,
+  "Column5": 260,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 28,
+  "PPLN": "PPLN Panama City",
+  "JUMLAH PEMILIH": 114,
+  "Column4": 28,
+  "Column5": 142,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 29,
+  "PPLN": "PPLN Washington D.C.",
+  "JUMLAH PEMILIH": 659,
+  "Column4": 1041,
+  "Column5": 1700,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 30,
+  "PPLN": "PPLN Chicago",
+  "JUMLAH PEMILIH": 1229,
+  "Column4": 1415,
+  "Column5": 2644,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 31,
+  "PPLN": "PPLN Houston",
+  "JUMLAH PEMILIH": 2859,
+  "Column4": 3691,
+  "Column5": 6550,
+  "JUMLAH TPS\/KSK\/POS": 13
+ },
+ {
+  "NO": 32,
+  "PPLN": "PPLN Los Angeles",
+  "JUMLAH PEMILIH": 6512,
+  "Column4": 9205,
+  "Column5": 15717,
+  "JUMLAH TPS\/KSK\/POS": 12
+ },
+ {
+  "NO": 33,
+  "PPLN": "PPLN New York",
+  "JUMLAH PEMILIH": 4830,
+  "Column4": 6311,
+  "Column5": 11141,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 34,
+  "PPLN": "PPLN San Francisco",
+  "JUMLAH PEMILIH": 2369,
+  "Column4": 3090,
+  "Column5": 5459,
+  "JUMLAH TPS\/KSK\/POS": 6
+ },
+ {
+  "NO": 35,
+  "PPLN": "PPLN Ottawa",
+  "JUMLAH PEMILIH": 433,
+  "Column4": 699,
+  "Column5": 1132,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 36,
+  "PPLN": "PPLN Toronto",
+  "JUMLAH PEMILIH": 1499,
+  "Column4": 1984,
+  "Column5": 3483,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 37,
+  "PPLN": "PPLN Vancouver",
+  "JUMLAH PEMILIH": 2138,
+  "Column4": 2799,
+  "Column5": 4937,
+  "JUMLAH TPS\/KSK\/POS": 6
+ },
+ {
+  "NO": 38,
+  "PPLN": "PPLN Riyadh",
+  "JUMLAH PEMILIH": 8025,
+  "Column4": 22782,
+  "Column5": 30807,
+  "JUMLAH TPS\/KSK\/POS": 21
+ },
+ {
+  "NO": 39,
+  "PPLN": "PPLN Jeddah",
+  "JUMLAH PEMILIH": 18717,
+  "Column4": 35762,
+  "Column5": 54479,
+  "JUMLAH TPS\/KSK\/POS": 36
+ },
+ {
+  "NO": 40,
+  "PPLN": "PPLN Baku",
+  "JUMLAH PEMILIH": 22,
+  "Column4": 59,
+  "Column5": 81,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 41,
+  "PPLN": "PPLN Manama",
+  "JUMLAH PEMILIH": 431,
+  "Column4": 1883,
+  "Column5": 2314,
+  "JUMLAH TPS\/KSK\/POS": 7
+ },
+ {
+  "NO": 42,
+  "PPLN": "PPLN Baghdad",
+  "JUMLAH PEMILIH": 99,
+  "Column4": 171,
+  "Column5": 270,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 43,
+  "PPLN": "PPLN Kuwait City",
+  "JUMLAH PEMILIH": 1189,
+  "Column4": 2441,
+  "Column5": 3630,
+  "JUMLAH TPS\/KSK\/POS": 9
+ },
+ {
+  "NO": 44,
+  "PPLN": "PPLN Beirut",
+  "JUMLAH PEMILIH": 57,
+  "Column4": 74,
+  "Column5": 131,
+  "JUMLAH TPS\/KSK\/POS": 1
+ },
+ {
+  "NO": 45,
+  "PPLN": "PPLN Muscat",
+  "JUMLAH PEMILIH": 398,
+  "Column4": 1414,
+  "Column5": 1812,
+  "JUMLAH TPS\/KSK\/POS": 7
+ },
+ {
+  "NO": 46,
+  "PPLN": "PPLN Doha",
+  "JUMLAH PEMILIH": 2755,
+  "Column4": 4570,
+  "Column5": 7325,
+  "JUMLAH TPS\/KSK\/POS": 15
+ },
+ {
+  "NO": 47,
+  "PPLN": "PPLN Damascus",
+  "JUMLAH PEMILIH": 187,
+  "Column4": 314,
+  "Column5": 501,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 48,
+  "PPLN": "PPLN Ankara",
+  "JUMLAH PEMILIH": 1109,
+  "Column4": 1895,
+  "Column5": 3004,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 49,
+  "PPLN": "PPLN Istanbul",
+  "JUMLAH PEMILIH": 1224,
+  "Column4": 1933,
+  "Column5": 3157,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 50,
+  "PPLN": "PPLN Abu Dhabi",
+  "JUMLAH PEMILIH": 2242,
+  "Column4": 3706,
+  "Column5": 5948,
+  "JUMLAH TPS\/KSK\/POS": 13
+ },
+ {
+  "NO": 51,
+  "PPLN": "PPLN Dubai",
+  "JUMLAH PEMILIH": 1243,
+  "Column4": 3804,
+  "Column5": 5047,
+  "JUMLAH TPS\/KSK\/POS": 11
+ },
+ {
+  "NO": 52,
+  "PPLN": "PPLN Sana'a",
+  "JUMLAH PEMILIH": 3924,
+  "Column4": 942,
+  "Column5": 4866,
+  "JUMLAH TPS\/KSK\/POS": 10
+ },
+ {
+  "NO": 53,
+  "PPLN": "PPLN Amman",
+  "JUMLAH PEMILIH": 592,
+  "Column4": 932,
+  "Column5": 1524,
+  "JUMLAH TPS\/KSK\/POS": 6
+ },
+ {
+  "NO": 54,
+  "PPLN": "PPLN Canberra",
+  "JUMLAH PEMILIH": 305,
+  "Column4": 410,
+  "Column5": 715,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 55,
+  "PPLN": "PPLN Melbourne",
+  "JUMLAH PEMILIH": 5261,
+  "Column4": 7096,
+  "Column5": 12357,
+  "JUMLAH TPS\/KSK\/POS": 23
+ },
+ {
+  "NO": 56,
+  "PPLN": "PPLN Perth",
+  "JUMLAH PEMILIH": 2471,
+  "Column4": 3979,
+  "Column5": 6450,
+  "JUMLAH TPS\/KSK\/POS": 19
+ },
+ {
+  "NO": 57,
+  "PPLN": "PPLN Sydney",
+  "JUMLAH PEMILIH": 6324,
+  "Column4": 7838,
+  "Column5": 14162,
+  "JUMLAH TPS\/KSK\/POS": 24
+ },
+ {
+  "NO": 58,
+  "PPLN": "PPLN Darwin",
+  "JUMLAH PEMILIH": 362,
+  "Column4": 676,
+  "Column5": 1038,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 59,
+  "PPLN": "PPLN Suva",
+  "JUMLAH PEMILIH": 182,
+  "Column4": 26,
+  "Column5": 208,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 60,
+  "PPLN": "PPLN Noumea",
+  "JUMLAH PEMILIH": 70,
+  "Column4": 181,
+  "Column5": 251,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 61,
+  "PPLN": "PPLN Port Moresby",
+  "JUMLAH PEMILIH": 1330,
+  "Column4": 112,
+  "Column5": 1442,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 62,
+  "PPLN": "PPLN Vanimo",
+  "JUMLAH PEMILIH": 304,
+  "Column4": 36,
+  "Column5": 340,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 63,
+  "PPLN": "PPLN Wellington",
+  "JUMLAH PEMILIH": 2398,
+  "Column4": 2960,
+  "Column5": 5358,
+  "JUMLAH TPS\/KSK\/POS": 6
+ },
+ {
+  "NO": 64,
+  "PPLN": "PPLN Dhaka",
+  "JUMLAH PEMILIH": 61,
+  "Column4": 318,
+  "Column5": 379,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 65,
+  "PPLN": "PPLN New Delhi",
+  "JUMLAH PEMILIH": 108,
+  "Column4": 192,
+  "Column5": 300,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 66,
+  "PPLN": "PPLN Mumbai",
+  "JUMLAH PEMILIH": 99,
+  "Column4": 380,
+  "Column5": 479,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 67,
+  "PPLN": "PPLN Tehran",
+  "JUMLAH PEMILIH": 162,
+  "Column4": 115,
+  "Column5": 277,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 68,
+  "PPLN": "PPLN Islamabad",
+  "JUMLAH PEMILIH": 337,
+  "Column4": 480,
+  "Column5": 817,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 69,
+  "PPLN": "PPLN Karachi",
+  "JUMLAH PEMILIH": 104,
+  "Column4": 108,
+  "Column5": 212,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 70,
+  "PPLN": "PPLN Colombo",
+  "JUMLAH PEMILIH": 888,
+  "Column4": 1596,
+  "Column5": 2484,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 71,
+  "PPLN": "PPLN Astana",
+  "JUMLAH PEMILIH": 48,
+  "Column4": 78,
+  "Column5": 126,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 72,
+  "PPLN": "PPLN Tashkent",
+  "JUMLAH PEMILIH": 41,
+  "Column4": 76,
+  "Column5": 117,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 73,
+  "PPLN": "PPLN Bandar Seri Begawan",
+  "JUMLAH PEMILIH": 12882,
+  "Column4": 6297,
+  "Column5": 19179,
+  "JUMLAH TPS\/KSK\/POS": 26
+ },
+ {
+  "NO": 74,
+  "PPLN": "PPLN Manila",
+  "JUMLAH PEMILIH": 1102,
+  "Column4": 945,
+  "Column5": 2047,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 75,
+  "PPLN": "PPLN Davao City",
+  "JUMLAH PEMILIH": 841,
+  "Column4": 526,
+  "Column5": 1367,
+  "JUMLAH TPS\/KSK\/POS": 11
+ },
+ {
+  "NO": 76,
+  "PPLN": "PPLN Phnom Penh",
+  "JUMLAH PEMILIH": 7130,
+  "Column4": 1969,
+  "Column5": 9099,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 77,
+  "PPLN": "PPLN Vientiane",
+  "JUMLAH PEMILIH": 138,
+  "Column4": 44,
+  "Column5": 182,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 78,
+  "PPLN": "PPLN Kuala Lumpur",
+  "JUMLAH PEMILIH": 249616,
+  "Column4": 197642,
+  "Column5": 447258,
+  "JUMLAH TPS\/KSK\/POS": 672
+ },
+ {
+  "NO": 79,
+  "PPLN": "PPLN Johor Bahru",
+  "JUMLAH PEMILIH": 70979,
+  "Column4": 48512,
+  "Column5": 119491,
+  "JUMLAH TPS\/KSK\/POS": 442
+ },
+ {
+  "NO": 80,
+  "PPLN": "PPLN Kota Kinabalu",
+  "JUMLAH PEMILIH": 57618,
+  "Column4": 41051,
+  "Column5": 98669,
+  "JUMLAH TPS\/KSK\/POS": 459
+ },
+ {
+  "NO": 81,
+  "PPLN": "PPLN Kuching",
+  "JUMLAH PEMILIH": 45909,
+  "Column4": 18991,
+  "Column5": 64900,
+  "JUMLAH TPS\/KSK\/POS": 158
+ },
+ {
+  "NO": 82,
+  "PPLN": "PPLN Penang",
+  "JUMLAH PEMILIH": 8900,
+  "Column4": 33760,
+  "Column5": 42660,
+  "JUMLAH TPS\/KSK\/POS": 125
+ },
+ {
+  "NO": 83,
+  "PPLN": "PPLN Tawau",
+  "JUMLAH PEMILIH": 33029,
+  "Column4": 26413,
+  "Column5": 59442,
+  "JUMLAH TPS\/KSK\/POS": 188
+ },
+ {
+  "NO": 84,
+  "PPLN": "PPLN Yangon",
+  "JUMLAH PEMILIH": 157,
+  "Column4": 78,
+  "Column5": 235,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 85,
+  "PPLN": "PPLN Singapura",
+  "JUMLAH PEMILIH": 10626,
+  "Column4": 95889,
+  "Column5": 106515,
+  "JUMLAH TPS\/KSK\/POS": 120
+ },
+ {
+  "NO": 86,
+  "PPLN": "PPLN Bangkok",
+  "JUMLAH PEMILIH": 741,
+  "Column4": 849,
+  "Column5": 1590,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 87,
+  "PPLN": "PPLN Songkhla",
+  "JUMLAH PEMILIH": 203,
+  "Column4": 151,
+  "Column5": 354,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 88,
+  "PPLN": "PPLN Dili",
+  "JUMLAH PEMILIH": 3624,
+  "Column4": 2209,
+  "Column5": 5833,
+  "JUMLAH TPS\/KSK\/POS": 20
+ },
+ {
+  "NO": 89,
+  "PPLN": "PPLN Hanoi",
+  "JUMLAH PEMILIH": 131,
+  "Column4": 101,
+  "Column5": 232,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 90,
+  "PPLN": "PPLN Ho Chi Minh City",
+  "JUMLAH PEMILIH": 304,
+  "Column4": 152,
+  "Column5": 456,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 91,
+  "PPLN": "PPLN Tokyo",
+  "JUMLAH PEMILIH": 18334,
+  "Column4": 11100,
+  "Column5": 29434,
+  "JUMLAH TPS\/KSK\/POS": 25
+ },
+ {
+  "NO": 92,
+  "PPLN": "PPLN Osaka",
+  "JUMLAH PEMILIH": 5461,
+  "Column4": 3592,
+  "Column5": 9053,
+  "JUMLAH TPS\/KSK\/POS": 15
+ },
+ {
+  "NO": 93,
+  "PPLN": "PPLN Seoul",
+  "JUMLAH PEMILIH": 24017,
+  "Column4": 2833,
+  "Column5": 26850,
+  "JUMLAH TPS\/KSK\/POS": 39
+ },
+ {
+  "NO": 94,
+  "PPLN": "PPLN Beijing",
+  "JUMLAH PEMILIH": 294,
+  "Column4": 492,
+  "Column5": 786,
+  "JUMLAH TPS\/KSK\/POS": 7
+ },
+ {
+  "NO": 95,
+  "PPLN": "PPLN Taipei",
+  "JUMLAH PEMILIH": 74817,
+  "Column4": 155490,
+  "Column5": 230307,
+  "JUMLAH TPS\/KSK\/POS": 150
+ },
+ {
+  "NO": 96,
+  "PPLN": "PPLN Guangzhou",
+  "JUMLAH PEMILIH": 647,
+  "Column4": 964,
+  "Column5": 1611,
+  "JUMLAH TPS\/KSK\/POS": 7
+ },
+ {
+  "NO": 97,
+  "PPLN": "PPLN Hong Kong",
+  "JUMLAH PEMILIH": 1551,
+  "Column4": 163140,
+  "Column5": 164691,
+  "JUMLAH TPS\/KSK\/POS": 40
+ },
+ {
+  "NO": 98,
+  "PPLN": "PPLN Shanghai",
+  "JUMLAH PEMILIH": 399,
+  "Column4": 449,
+  "Column5": 848,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 99,
+  "PPLN": "PPLN Wina",
+  "JUMLAH PEMILIH": 266,
+  "Column4": 621,
+  "Column5": 887,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 100,
+  "PPLN": "PPLN Den Haag",
+  "JUMLAH PEMILIH": 4121,
+  "Column4": 9041,
+  "Column5": 13162,
+  "JUMLAH TPS\/KSK\/POS": 9
+ },
+ {
+  "NO": 101,
+  "PPLN": "PPLN Brussels",
+  "JUMLAH PEMILIH": 591,
+  "Column4": 1607,
+  "Column5": 2198,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 102,
+  "PPLN": "PPLN Berlin",
+  "JUMLAH PEMILIH": 2159,
+  "Column4": 2386,
+  "Column5": 4545,
+  "JUMLAH TPS\/KSK\/POS": 12
+ },
+ {
+  "NO": 103,
+  "PPLN": "PPLN Frankfurt",
+  "JUMLAH PEMILIH": 4405,
+  "Column4": 7032,
+  "Column5": 11437,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 104,
+  "PPLN": "PPLN Hamburg",
+  "JUMLAH PEMILIH": 2305,
+  "Column4": 2897,
+  "Column5": 5202,
+  "JUMLAH TPS\/KSK\/POS": 6
+ },
+ {
+  "NO": 105,
+  "PPLN": "PPLN Paris",
+  "JUMLAH PEMILIH": 587,
+  "Column4": 1943,
+  "Column5": 2530,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 106,
+  "PPLN": "PPLN Marseille",
+  "JUMLAH PEMILIH": 147,
+  "Column4": 512,
+  "Column5": 659,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 107,
+  "PPLN": "PPLN Bern",
+  "JUMLAH PEMILIH": 586,
+  "Column4": 1182,
+  "Column5": 1768,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 108,
+  "PPLN": "PPLN Vatican",
+  "JUMLAH PEMILIH": 166,
+  "Column4": 1435,
+  "Column5": 1601,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 109,
+  "PPLN": "PPLN Sarajevo",
+  "JUMLAH PEMILIH": 14,
+  "Column4": 56,
+  "Column5": 70,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 110,
+  "PPLN": "PPLN Roma",
+  "JUMLAH PEMILIH": 622,
+  "Column4": 1180,
+  "Column5": 1802,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 111,
+  "PPLN": "PPLN Zagreb",
+  "JUMLAH PEMILIH": 16,
+  "Column4": 52,
+  "Column5": 68,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 112,
+  "PPLN": "PPLN Lisabon",
+  "JUMLAH PEMILIH": 161,
+  "Column4": 162,
+  "Column5": 323,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 113,
+  "PPLN": "PPLN Beograd",
+  "JUMLAH PEMILIH": 89,
+  "Column4": 81,
+  "Column5": 170,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 114,
+  "PPLN": "PPLN Madrid",
+  "JUMLAH PEMILIH": 827,
+  "Column4": 740,
+  "Column5": 1567,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 115,
+  "PPLN": "PPLN Athena",
+  "JUMLAH PEMILIH": 227,
+  "Column4": 1074,
+  "Column5": 1301,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 116,
+  "PPLN": "PPLN Sofia",
+  "JUMLAH PEMILIH": 26,
+  "Column4": 107,
+  "Column5": 133,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 117,
+  "PPLN": "PPLN Praha",
+  "JUMLAH PEMILIH": 201,
+  "Column4": 182,
+  "Column5": 383,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "NO": 118,
+  "PPLN": "PPLN Budapest",
+  "JUMLAH PEMILIH": 877,
+  "Column4": 314,
+  "Column5": 1191,
+  "JUMLAH TPS\/KSK\/POS": 5
+ },
+ {
+  "NO": 119,
+  "PPLN": "PPLN Warsawa",
+  "JUMLAH PEMILIH": 1868,
+  "Column4": 718,
+  "Column5": 2586,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 120,
+  "PPLN": "PPLN Bucharest",
+  "JUMLAH PEMILIH": 71,
+  "Column4": 244,
+  "Column5": 315,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 121,
+  "PPLN": "PPLN Moskow",
+  "JUMLAH PEMILIH": 356,
+  "Column4": 814,
+  "Column5": 1170,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 122,
+  "PPLN": "PPLN Bratislava",
+  "JUMLAH PEMILIH": 245,
+  "Column4": 85,
+  "Column5": 330,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 123,
+  "PPLN": "PPLN Kiev",
+  "JUMLAH PEMILIH": 25,
+  "Column4": 27,
+  "Column5": 52,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 124,
+  "PPLN": "PPLN London",
+  "JUMLAH PEMILIH": 1668,
+  "Column4": 3113,
+  "Column5": 4781,
+  "JUMLAH TPS\/KSK\/POS": 4
+ },
+ {
+  "NO": 125,
+  "PPLN": "PPLN Kopenhagen",
+  "JUMLAH PEMILIH": 216,
+  "Column4": 575,
+  "Column5": 791,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 126,
+  "PPLN": "PPLN Helsinki",
+  "JUMLAH PEMILIH": 272,
+  "Column4": 424,
+  "Column5": 696,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 127,
+  "PPLN": "PPLN Oslo",
+  "JUMLAH PEMILIH": 294,
+  "Column4": 706,
+  "Column5": 1000,
+  "JUMLAH TPS\/KSK\/POS": 2
+ },
+ {
+  "NO": 128,
+  "PPLN": "PPLN Stockholm",
+  "JUMLAH PEMILIH": 498,
+  "Column4": 1008,
+  "Column5": 1506,
+  "JUMLAH TPS\/KSK\/POS": 3
+ },
+ {
+  "JUMLAH PEMILIH": 751260,
+  "Column4": 999214,
+  "Column5": 1750474,
+  "JUMLAH TPS\/KSK\/POS": 3059
+ }
+],
+"Sheet1":[]
+}
